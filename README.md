@@ -34,7 +34,7 @@
 ### 📌 Projects In Progress
 
 #### 🎓 CampusFlow — *UI/UX design phase*
-A student academic management and productivity web app — helping students track courses, assignments, and schedules in one place. Code coming soon.
+A student academic management and productivity web app helping students track courses, assignments, and schedules in one place. Code coming soon.
 `React` · `Next.js` · `TypeScript` · `Node.js`
 
 #### 🎟️ Event Ticketing Platform — *UI/UX design phase*
@@ -45,10 +45,7 @@ An event discovery and interactive seat-booking platform for Addis Ababa, built 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abigiya-getachew&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abigiya-getachew" alt="GitHub Streak" height="165"/>
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abigiya-getachew&theme=default" alt="GitHub Stats" height="165"/> <img src="https://streak-stats.demolab.com/?user=abigiya-getachew&theme=default&hide_border=true" alt="GitHub Streak" height="165"/> </p>
 
 ---
 
