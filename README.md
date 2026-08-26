@@ -45,7 +45,7 @@ An event discovery and interactive seat-booking platform for Addis Ababa, built 
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abigiya-getachew&theme=default" alt="GitHub Stats" height="165"/> <img src="https://streak-stats.demolab.com/?user=abigiya-getachew&theme=default&hide_border=true" alt="GitHub Streak" height="165"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abigiya-getachew&theme=default" alt="GitHub Stats" height="165"/> </p>
 
 ---
 
