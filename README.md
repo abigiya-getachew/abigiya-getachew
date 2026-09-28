@@ -1,52 +1,117 @@
-<h1 align="center">Hi, I'm Abigiya Getachew 👋</h1>
-<h3 align="center">Aspiring Full-Stack Engineer based in Addis Ababa, Ethiopia</h3>
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · abigiya-getachew</sub></p>
+<h1>Abigiya Getachew</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Aspiring Software Engineer | Full-stack Developer | Building real-world projects with HTML, CSS, JavaScript &amp; React. Currently growing through hands-on dev't.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Addis Ababa, Ethiopia</sub></p>
+<p><a href="https://github.com/abigiya-getachew">GitHub</a> &nbsp;·&nbsp; <a href="https://shorturl.at/zOgtu">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=abigiya-getachew&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F321554184%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=abigiya-getachew&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F321554184%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Abigiya Getachew animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>6 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>19 contributions · 8 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Aspiring Software Engineer | Full-stack Developer | Building real-world projects with HTML, CSS, JavaScript &amp; React. Currently growing through hands-on dev't.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>19</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+full-stack+web+apps;Open+to+my+first+role+in+tech" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=abigiya-getachew&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F321554184%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=abigiya-getachew&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F321554184%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Abigiya Getachew GitHub proof metrics" />
+</picture>
 </p>
 
----
+<h2>Selected work</h2>
 
-### 🚀 About Me
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=abigiya-getachew&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F321554184%3Fv%3D4&repos=abigiya-getachew%2Fthe-odin-project%2Cabigiya-getachew%2FDevTrack%2Cabigiya-getachew%2Fcampus-flow%2Cabigiya-getachew%2FMyPortfolio&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=abigiya-getachew&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F321554184%3Fv%3D4&repos=abigiya-getachew%2Fthe-odin-project%2Cabigiya-getachew%2FDevTrack%2Cabigiya-getachew%2Fcampus-flow%2Cabigiya-getachew%2FMyPortfolio&v=recruiter-projects-1&mode=dark" width="100%" alt="Abigiya Getachew selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/abigiya-getachew/the-odin-project">the-odin-project</a></h3>
+<p>A selected public project.</p>
+<p><sub>HTML · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/abigiya-getachew/the-odin-project">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-- 🎓 BSc in Software Engineering, Wolkite University
-- 💻 I build full-stack web apps with **React**, **Next.js**, **TypeScript**, and **Node.js**
-- 🌱 Currently designing **CampusFlow** and an **event-ticketing platform** — UI/UX in progress, code coming soon
-- 🎯 Actively looking for my first opportunity as a Software Engineer
-- 📫 Reach me at: **[abigiya.getachew00@gmail.com]**
-- 🔗 Connect on LinkedIn: **[https://linkedin.com/in/abigiya-getachew-0879b5341]**
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/abigiya-getachew/DevTrack">DevTrack</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/abigiya-getachew/campus-flow">campus-flow</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/abigiya-getachew/MyPortfolio">MyPortfolio</a></h3><p>A selected public project.</p><p><sub>CSS · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
----
+<h2>Technical toolkit</h2>
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=abigiya-getachew&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F321554184%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=abigiya-getachew&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F321554184%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Abigiya Getachew technology stack" />
+</picture>
 </p>
 
----
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>TypeScript</strong><br /><sub>49% of public code</sub></td>
+<td width="25%" align="center"><strong>JavaScript</strong><br /><sub>32% of public code</sub></td>
+<td width="25%" align="center"><strong>CSS</strong><br /><sub>17% of public code</sub></td>
+<td width="25%" align="center"><strong>HTML</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
 
-### 📌 Projects In Progress
+<h2>Consistency signal</h2>
 
-#### 🎓 CampusFlow — *UI/UX design phase*
-A student academic management and productivity web app helping students track courses, assignments, and schedules in one place. Code coming soon.
-`React` · `Next.js` · `TypeScript` · `Node.js`
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=abigiya-getachew&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F321554184%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=abigiya-getachew&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F321554184%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Abigiya Getachew contribution activity" />
+</picture>
+</p>
 
-#### 🎟️ Event Ticketing Platform — *UI/UX design phase*
-An event discovery and interactive seat-booking platform for Addis Ababa, built to be expandable to other cities. Code coming soon.
-`React` · `Next.js` · `TypeScript` · `Node.js`
+<hr />
 
----
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/abigiya-getachew">GitHub</a><br /><a href="https://shorturl.at/zOgtu">Website</a></td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abigiya-getachew&theme=default" alt="GitHub Stats" height="165"/> </p>
-
----
-
-<p align="center"><i>Let's build something great together 🚀</i></p>
+<p align="center"><sub>Abigiya Getachew · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
